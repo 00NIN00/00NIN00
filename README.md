@@ -3,7 +3,7 @@
   <!-- Anime banner -->
   <img src="https://cdn.pfps.gg/banners/90507-pluvieux.jpeg" width="600" alt="anime banner" />
 
-  <h1>こんにちは, I'm 00NIN00 ~ ✨</h1>
+  <h1>✨ ~ こんにちは, I'm 00NIN00 ~ ✨</h1>
   <h3>GameDev • Art • Anime • Linux • Python bots</h3>
 
 </div>
