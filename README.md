@@ -179,8 +179,6 @@ OS: Windows 11 & ArchLinux
     </td>
   </tr>
 </table>
----
-
 
 <!--
 **00NIN00/00NIN00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
