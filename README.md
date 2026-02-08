@@ -108,8 +108,7 @@ OS: Windows 11 & ArchLinux
 
 ### 🌸 About me
 
-- 🎮 Разбираюсь в геймдизайне и люблю ковырять проекты на Unity  
-- 🤖 играюсь написанием ботов [Python]  
+- 🎮 Разбираюсь в геймдизайне и люблю ковырять проекты на Unity
 - 🐧 Нравится Linux, терминал и вся возня с конфигами  
 - ✏️ Рисую, вдохновляюсь аниме‑артом и референсами
 
@@ -180,14 +179,6 @@ OS: Windows 11 & ArchLinux
     </td>
   </tr>
 </table>
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=00NIN00&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00NIN00&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 
