@@ -4,11 +4,11 @@
   <img src="https://cdn.pfps.gg/banners/90507-pluvieux.jpeg" width="600" alt="anime banner" />
 
   <h1>✨ ~ こんにちは, I'm 00NIN00 ~ ✨</h1>
-  <h3>GameDev • Art • Anime • Linux</h3>
+  <!--  <h3>GameDev • Art • Anime • Linux</h3> -->
 
 </div>
 
----
+<!--
 
 ```zsh
 0NIN0@github:~$ fetch
@@ -136,12 +136,13 @@ OS: Windows 11 & ArchLinux
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
 
-<!--
+
+---
 **00NIN00/00NIN00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -152,3 +153,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
