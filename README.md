@@ -20,12 +20,13 @@
     <img src="https://img.shields.io/badge/MyIndie.ru-games-7B3F9B?style=for-the-badge&logo=gamecontroller&logoColor=white" alt="MyIndie" />
   </a>
 
-  <br /><br />
+  <h1></h1>
   
   <!-- Стрик -->
   <a href="https://git.io/streak-stats" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=00NIN00&background=FFFFFF&border=E2E8F0&stroke=DDA0DD&ring=FFB6C1&fire=FFB6C1&currStreakNum=DB7093&sideNums=8B008D&sideLabels=655565&dates=8B008D" alt="GitHub Streak" />
   </a>
+
 
 </div>
 
