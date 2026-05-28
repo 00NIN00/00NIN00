@@ -1,23 +1,34 @@
 <div align="center">
 
-  <!-- Anime banner -->
+  <!-- Баннер -->
   <img src="https://cdn.pfps.gg/banners/90507-pluvieux.jpeg" width="600" alt="anime banner" />
 
+  <!-- Приветствие -->
   <h1>✨ ~ こんにちは, I'm 00NIN00 ~ ✨</h1>
-  <!--  <h3>GameDev • Art • Anime • Linux</h3> -->
+
+  <!-- Разделитель -->
+  <!-- <hr width="600" size="1" color="#7B3F9B" /> -->
+
+  <!-- Ссылки на игры -->
+  <h3>🎮MY GAMES🎮</h3>
+  
+  <a href="https://0nosok0.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="http://myindie.ru/users/user/00nin00" target="_blank">
+    <img src="https://img.shields.io/badge/MyIndie.ru-games-7B3F9B?style=for-the-badge&logo=gamecontroller&logoColor=white" alt="MyIndie" />
+  </a>
+
+  <br /><br />
+  
+  <!-- Стрик -->
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=00NIN00&background=FFFFFF&border=E2E8F0&stroke=DDA0DD&ring=FFB6C1&fire=FFB6C1&currStreakNum=DB7093&sideNums=8B008D&sideLabels=655565&dates=8B008D" alt="GitHub Streak" />
+  </a>
 
 </div>
 
-<h3 align="center">🎮 My games</h3>
-
-<p align="center">
-<a href="https://0nosok0.itch.io/">
-  <img src="https://img.shields.io/badge/itch.io-games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
-</a>
-<a href="http://myindie.ru/users/user/00nin00">
-  <img src="https://img.shields.io/badge/MyIndie.ru-games-7B3F9B?style=for-the-badge&logo=gamecontroller&logoColor=white">
-</a>
-</p>
 
 <!--
 
