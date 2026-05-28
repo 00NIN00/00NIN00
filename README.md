@@ -26,7 +26,15 @@
   <a href="https://git.io/streak-stats" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=00NIN00&background=FFFFFF&border=E2E8F0&stroke=DDA0DD&ring=FFB6C1&fire=FFB6C1&currStreakNum=DB7093&sideNums=8B008D&sideLabels=655565&dates=8B008D" alt="GitHub Streak" />
   </a>
-
+  
+  <br /><br />
+  
+  <!-- Contributions Snake / Анимация змейки с авто-сменой темы -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/00NIN00/00NIN00/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/00NIN00/00NIN00/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/00NIN00/00NIN00/output/github-contribution-grid-snake.svg" width="600">
+  </picture>
 
 </div>
 
