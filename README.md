@@ -8,6 +8,17 @@
 
 </div>
 
+<h3 align="center">🎮 My games</h3>
+
+<p align="center">
+<a href="https://0nosok0.itch.io/">
+  <img src="https://img.shields.io/badge/itch.io-games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
+</a>
+<a href="http://myindie.ru/users/user/00nin00">
+  <img src="https://img.shields.io/badge/MyIndie.ru-games-7B3F9B?style=for-the-badge&logo=gamecontroller&logoColor=white">
+</a>
+</p>
+
 <!--
 
 ```zsh
